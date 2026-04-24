@@ -5,6 +5,8 @@ import { ArrowRight,ChevronDown,Download, Github,Linkedin, } from "lucide-react"
 const skills = [
   "React",
   "JavaScript",
+  "Vanilla JS",
+    "TypeScript",
   "HTML",
   "CSS",
   "Tailwind CSS",
@@ -19,6 +21,7 @@ const skills = [
   "Symfony",
 
   "Python",
+  "Django",
   "C",
   "C++",
   "C#",
