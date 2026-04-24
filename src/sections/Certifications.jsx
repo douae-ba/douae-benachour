@@ -47,7 +47,7 @@ const certifications = [
   issuer: "Udemy",
   date: "24 avril 2026",
   link: "https://ude.my/UC-b31e4c52-5124-46de-85d7-3878bbb484a9",
-  image: "/certif/django.jpg",
+  image: "/certif/Djngo.jpg",
   badge: "17h",
   issuerColor: "#a435f0",
   issuerInitials: "U",
