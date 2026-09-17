@@ -25,6 +25,7 @@ const skills = [
   "C",
   "C++",
   "C#",
+  "ASP.NET Core MVC",
 
   "MySQL",
   "PostgreSQL",
@@ -99,7 +100,7 @@ export const Hero = () => {
                             <span className="font-serif italic font-normal text-white">software solutions</span>
                             </h1>
                             <p className="text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200">
-                                Hi, I'm Douae Benachour — a 4th-year Computer Engineering student.
+                                Hi, I'm Douae Benachour — a 5th-year Computer Engineering student.
                                 I'm passionate about software development and building modern web 
                                 applications. I enjoy transforming ideas into practical digital solutions.
                             </p>
@@ -143,7 +144,7 @@ export const Hero = () => {
                                 <div className="absolute -bottom-4 -right-4 glass rounded-xl px-4 py-3 animate-float">
                                     <div className="flex items-center gap-3">
                                         <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"/>
-                                        <span className="text-sm font-medium">Seeking PFA internship</span>
+                                        <span className="text-sm font-medium">Seeking PFE internship</span>
                                     </div>
                                 </div>
                                 {/*Stats Badge*/}

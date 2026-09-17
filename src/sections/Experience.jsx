@@ -1,6 +1,24 @@
 const experiences = [
   {
-    period: "2025 — 2025",
+    period: "July — August 2026",
+    role: "Full-Stack Web Developer Intern",
+    company: "Orhan Automotive, Tangier",
+    description:
+      "Designed and developed a full-stack web application for managing Continuous Improvement (Kaizen) suggestions across departments. Built Excel-based data synchronization (bidirectional import/export with shared OneDrive/SharePoint files), role-protected data editing to prevent overwrite conflicts, and interactive statistics dashboards tracking participation, scope, status, and savings objectives per department.",
+    technologies: ["ASP.NET Core MVC", "C#", "Entity Framework Core", "SQLite", "ClosedXML", "Chart.js", "JavaScript", "Razor"],
+    current: true,
+  },
+  {
+    period: "July — August 2025",
+    role: "Full-Stack Web Developer Intern",
+    company: "Maison de l'Intelligence Artificielle (MIA), Oujda",
+    description:
+      "Developed Innomiate platform for managing hackathon registrations and team formation (Miathon). Built user profile management, competition registration forms, admin panel (CRUD), and support page interface.",
+    technologies: ["Symfony", "PHP", "MySQL", "Twig", "JavaScript", "reCAPTCHA API"],
+    current: false,
+  },
+  {
+    period: "July 2025",
     role: "Full-Stack Web Developer Intern",
     company: "CHU Mohammed VI, Oujda",
     description:
@@ -9,22 +27,13 @@ const experiences = [
     current: false,
   },
   {
-    period: "2025 — 2025",
-    role: "Full-Stack Web Developer Intern",
-    company: "Maison de l’Intelligence Artificielle (MIA), Oujda",
-    description:
-      "Developed Innomiate platform for managing hackathon registrations and team formation (Miathon). Built user profile management, competition registration forms, admin panel (CRUD), and support page interface.",
-    technologies: ["Symfony", "PHP", "MySQL", "Twig", "JavaScript", "reCAPTCHA API"],
-    current: false,
-  },
-  {
     period: "2024 — Present",
     role: "Engineering Student in Computer Science",
     company: "ENSA Oujda",
     description:
       "Currently pursuing engineering studies in Computer Science with focus on software development, web technologies, and system design. Working on academic and personal projects in full-stack development.",
-    technologies:[],
-    current: true,
+    technologies: [],
+    current: false,
   },
   {
     period: "2022 — 2024",
